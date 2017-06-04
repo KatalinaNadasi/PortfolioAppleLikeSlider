@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+.slide {
+  width: 900px;
+  height: 200px;
+}
